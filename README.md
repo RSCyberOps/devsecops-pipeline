@@ -1,4 +1,6 @@
-# Projeto DevSecOps Pipeline
+![Pipeline Status](https://github.com/RSCyberOps/devsecops-pipeline/actions/workflows/pipeline.yml/badge.svg)
+
+# Projeto DevSecOps Pipeline# Projeto DevSecOps Pipeline
 
 Este projeto é uma API simples em Python (Flask) que utiliza um pipeline de CI/CD no GitHub Actions com um "Security Gate" integrado.
 
